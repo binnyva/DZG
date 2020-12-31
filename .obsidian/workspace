@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "0e7265a37829c8ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfb4d42e63e010ba",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a87d67f15a4d554",
+    "type": "split",
+    "children": [
+      {
+        "id": "249da2781debe7e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa2580a262a90601",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2f5746e51df863d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e263706b6f874b38",
+    "type": "split",
+    "children": [
+      {
+        "id": "12bb2c12d2e0ebf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a487d5956005b115",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "476e31204a6242e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "Change Story.md",
+    "Majority Illusion.md",
+    "Belief Threshold.md",
+    "Jean-Paul Sartre.md",
+    "Introduction to Existentialism.md",
+    "Book : Flow BY MIHALY CSIKSZENTMIHALYI.md",
+    "Coaching.md",
+    "Aristotle.md",
+    "Aristole.md",
+    "Addiction Assessment.md"
+  ]
+}
