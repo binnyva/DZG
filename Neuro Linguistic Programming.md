@@ -1,3 +1,9 @@
+---
+title: "Neuro Linguistic Programming"
+tags: psychology therapy literature-notes nlp
+date: 2020-12-18 15:12:31
+---
+
 # Neuro Linguistic Programming
 
 # Neuro Linguistic Programming

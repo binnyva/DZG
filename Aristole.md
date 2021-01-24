@@ -1,6 +1,0 @@
-# Aristole
-
-
-
----
-### Tags

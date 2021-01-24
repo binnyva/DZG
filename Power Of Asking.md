@@ -1,3 +1,9 @@
+---
+title: "Power Of Asking"
+tags: mad literature-notes session
+date: 2020-12-23 17:48:35
+---
+
 # Power Of Asking
 
 Context: Transformational Leadership session taken by Abishek Thakore before CFR

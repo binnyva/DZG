@@ -80,18 +80,19 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "lastOpenFiles": [
+    "Zettelkasten Learning Method.md",
     "Change Story.md",
     "Majority Illusion.md",
     "Belief Threshold.md",
@@ -100,7 +101,6 @@
     "Book : Flow BY MIHALY CSIKSZENTMIHALYI.md",
     "Coaching.md",
     "Aristotle.md",
-    "Aristole.md",
-    "Addiction Assessment.md"
+    "Aristole.md"
   ]
 }

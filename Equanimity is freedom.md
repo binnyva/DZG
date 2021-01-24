@@ -1,3 +1,9 @@
+---
+title: "Equanimity is freedom"
+tags: equanimity literature-notes philosophy
+date: 2020-11-28 18:10:54
+---
+
 # Equanimity is freedom
 
 [Source](https://www.youtube.com/watch?v=PucCkMygwe0)

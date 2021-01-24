@@ -1,3 +1,9 @@
+---
+title: "Empapthy"
+tags: empathy psychology
+date: 2020-11-02 17:20:50
+---
+
 # Empapthy
 
 # Empathy

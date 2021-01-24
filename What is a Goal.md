@@ -1,3 +1,9 @@
+---
+title: "What is a Goal"
+tags: goal focus productivity permanent-notes
+date: 2020-12-17 20:39:08
+---
+
 # What is a Goal
 
 A goal is a recognizable, desired state in the future, that causes you to act differently in the present in order to realize it. 

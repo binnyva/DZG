@@ -1,3 +1,9 @@
+---
+title: "Difference in classical and operant conditioning"
+tags: classical conditioning literature-notes operant pavlov psychology
+date: 2020-12-08 16:57:01
+---
+
 # Difference in classical and operant conditioning
 
 # The difference between classical and operant conditioning

@@ -1,6 +1,14 @@
+---
+title: "How to take smart notes : Talk by Sonke Ahrens"
+tags: literature-notes zettelkasten notes learning
+date: 2021-01-01 11:18:05
+---
+
 # How to take smart notes : Talk by Sonke Ahrens
 
 [Source](https://www.youtube.com/watch?v=nPOI4f7yCag)
+
+Context: This is the author who wrote the main book([[How to Take Smart Notes]]) on Zettelkasten.
 
 [[Thinking in Zettelkasten]] - Permanent Note on this
 

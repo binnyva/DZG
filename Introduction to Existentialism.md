@@ -1,3 +1,9 @@
+---
+title: "Introduction to Existentialism"
+tags: existentialism literature-notes philosophy sartre
+date: 2020-11-28 18:10:55
+---
+
 # Introduction to Existentialism
 
 [Source](https://www.youtube.com/watch?v=ilg7PiDD8yY)

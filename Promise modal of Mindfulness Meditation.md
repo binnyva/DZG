@@ -1,3 +1,9 @@
+---
+title: "Promise modal of Mindfulness Meditation"
+tags: equanimity literature-notes meditation mindfullness paper psychology
+date: 2020-12-08 17:11:20
+---
+
 # Promise modal of Mindfulness Meditation
 
 # Promise: A Model of insight and Equanimity as the Key effects of Mindfulness Meditation

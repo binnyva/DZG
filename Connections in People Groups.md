@@ -1,3 +1,9 @@
+---
+title: "Connections in People Groups"
+tags: society psychology permanent-notes
+date: 2020-12-19 19:49:12
+---
+
 # Connections in People Groups
 
 - Bonding Social capital: The number of connections within a group.

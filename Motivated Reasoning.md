@@ -1,3 +1,9 @@
+---
+title: "Motivated Reasoning"
+tags: rationality reasoning
+date: 2020-07-21 19:33:09
+---
+
 # Motivated Reasoning
 
 # Motivated Reasoning

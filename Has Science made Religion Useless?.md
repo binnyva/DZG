@@ -1,3 +1,9 @@
+---
+title: "Has Science made Religion Useless?"
+tags: literature-notes philosophy religion science
+date: 2020-11-28 18:10:54
+---
+
 # Has Science made Religion Useless?
 
 # Has Science made Religion Useless?

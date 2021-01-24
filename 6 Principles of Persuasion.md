@@ -1,3 +1,9 @@
+---
+title: "6 Principles of Persuasion"
+tags: communication literature-notes persuation psychology
+date: 2020-12-07 19:28:24
+---
+
 # 6 Principles of Persuasion
 
 [Source](https://www.influenceatwork.com/principles-of-persuasion/)

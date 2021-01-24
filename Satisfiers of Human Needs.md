@@ -1,3 +1,9 @@
+---
+title: "Satisfiers of Human Needs"
+tags: needs psychology permanent-notes
+date: 2020-12-19 18:41:53
+---
+
 # Satisfiers of Human Needs
 
 Satisfiers of [[Human Needs]]

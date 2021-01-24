@@ -1,3 +1,9 @@
+---
+title: "Building Rapport"
+tags: rapport nlp therapy empathy permanent-notes
+date: 2020-12-18 15:21:43
+---
+
 # Building Rapport
 
 Methods to build rapport

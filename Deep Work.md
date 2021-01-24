@@ -1,3 +1,9 @@
+---
+title: "Deep Work"
+tags: deep-work literature-notes productivity
+date: 2020-11-28 18:10:54
+---
+
 # Deep Work
 
 # "Deep Work: Rules for Focused Success in a Distracted World" 

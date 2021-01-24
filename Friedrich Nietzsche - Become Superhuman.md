@@ -1,3 +1,9 @@
+---
+title: "Friedrich Nietzsche - Become Superhuman"
+tags: nietzsche philosophers existentialism literature-notes
+date: 2020-12-12 14:34:46
+---
+
 # Friedrich Nietzsche - Become Superhuman
 
 # Friedrich Nietzsche - How To Become A Superhuman (Existentialism)

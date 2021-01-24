@@ -1,3 +1,9 @@
+---
+title: "Adam Smith : Grandfather of Economics"
+tags: economics literature-notes notes person video
+date: 2020-11-28 18:10:54
+---
+
 # Adam Smith : Grandfather of Economics
 
 ## [Source](https://www.youtube.com/watch?v=NqUSDi-mvqw)

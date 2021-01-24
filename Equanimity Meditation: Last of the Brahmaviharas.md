@@ -1,3 +1,9 @@
+---
+title: "Equanimity Meditation: Last of the Brahmaviharas"
+tags: buddhism equanimity literature-notes philosophy
+date: 2020-11-28 18:10:54
+---
+
 # Equanimity Meditation: Last of the Brahmaviharas
 
 [Source](https://www.youtube.com/watch?v=cKyn7VRa2co)

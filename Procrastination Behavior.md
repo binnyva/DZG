@@ -1,3 +1,9 @@
+---
+title: "Procrastination Behavior"
+tags: psychology behavior procrastination
+date: 2020-08-09 20:36:54
+---
+
 # Procrastination Behavior
 
 Procrastination isn’t a inability to manage time, but a way of coping with challenging emotions and negative moods induced by certain tasks — boredom, anxiety, insecurity, frustration, resentment, self-doubt and beyond.

@@ -1,3 +1,9 @@
+---
+title: "Fredrich Nietzsche"
+tags: philosophers nietzsche
+date: 2020-11-28 20:32:52
+---
+
 # Fredrich Nietzsche
 
 # Introduction to Nietzsche

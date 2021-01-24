@@ -1,3 +1,9 @@
+---
+title: "Bill and Malinda Gates Foundation Letter"
+tags: envionment gender health literature-notes
+date: 2020-12-08 16:59:10
+---
+
 # Bill and Malinda Gates Foundation Letter
 
 ## Bill and Malinda Gates Foundation : Why we swing for the fences

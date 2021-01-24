@@ -1,3 +1,9 @@
+---
+title: "Embodiment and Human Nature"
+tags: psychology philosophy cognition literature-notes
+date: 2020-12-25 19:52:22
+---
+
 # Embodiment and Human Nature
 
 # Embodiment and Human Nature

@@ -1,3 +1,9 @@
+---
+title: "The Zettelkasten Method"
+tags: literature-notes notes productivity zettelkasten
+date: 2020-12-08 16:56:31
+---
+
 # The Zettelkasten Method
 
 # The Zettelkasten Method: Examples to help you get started

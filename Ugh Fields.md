@@ -1,3 +1,9 @@
+---
+title: "Ugh Fields"
+tags: literature-notes procrastination psychology
+date: 2020-11-28 18:10:55
+---
+
 # Ugh Fields
 
 # Ugh Fields

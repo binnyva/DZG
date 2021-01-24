@@ -1,3 +1,9 @@
+---
+title: "Religion Is Nature's Antidepressant"
+tags: literature-notes psychology religion
+date: 2020-12-08 16:58:48
+---
+
 # Religion Is Nature's Antidepressant
 
 # Religion Is Nature's Antidepressant | Robert Sapolsky

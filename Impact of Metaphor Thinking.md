@@ -1,3 +1,9 @@
+---
+title: "Impact of Metaphor Thinking"
+tags: cognition psychology permanent-notes
+date: 2020-12-25 19:56:20
+---
+
 # Impact of Metaphor Thinking
 
 Issues that come with Metaphorical Thinking idea in [[Conceptual Metaphor Theory]]

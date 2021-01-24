@@ -1,3 +1,9 @@
+---
+title: "Capture Understanding - Don't Quote"
+tags: notes learning
+date: 2020-08-10 20:09:10
+---
+
 # Capture Understanding - Don't Quote
 
 When creating notes, capture your understanding of the concept. Don't quote directly.

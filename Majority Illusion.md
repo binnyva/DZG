@@ -1,3 +1,9 @@
+---
+title: "Majority Illusion"
+tags: society psychology permanent-notes
+date: 2020-12-19 19:49:54
+---
+
 # Majority Illusion
 
 Social networks can create the illusion that something is common when it is actually rare. Its the local impression that a specific attribute is common when the global truth is entirely different.

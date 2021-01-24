@@ -1,3 +1,9 @@
+---
+title: "Bullshit filters"
+tags: filters heuristics literature-notes mental-models rationality
+date: 2020-11-28 19:42:23
+---
+
 # Bullshit filters
 
 [Source](https://ernest.oppet.it/2020/08/14/who-to-ignore/)

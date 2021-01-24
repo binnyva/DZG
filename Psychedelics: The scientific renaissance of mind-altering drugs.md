@@ -1,3 +1,9 @@
+---
+title: "Psychedelics: The scientific renaissance of mind-altering drugs"
+tags: psychology neurology psychedelics literature-notes
+date: 2020-12-20 20:02:49
+---
+
 # Psychedelics: The scientific renaissance of mind-altering drugs
 
 [Source](https://www.youtube.com/watch?v=5T0LmbWROKY)

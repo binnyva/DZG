@@ -1,3 +1,9 @@
+---
+title: "Behavior Triggers"
+tags: psychology trigger behavior habit
+date: 2020-08-09 20:31:16
+---
+
 # Behavior Triggers
 
 Behavior Triggers fall into these categories...

@@ -1,3 +1,9 @@
+---
+title: "Albert Camus"
+tags: camus philosophers existentialism
+date: 2020-11-28 20:39:46
+---
+
 # Albert Camus
 
 # Introduction to Camus: The Absurd, Revolt, and Rebellion

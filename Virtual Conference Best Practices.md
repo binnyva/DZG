@@ -1,3 +1,9 @@
+---
+title: "Virtual Conference Best Practices"
+tags: best-practice conference literature-notes mad virtual
+date: 2020-11-28 18:10:54
+---
+
 # Virtual Conference Best Practices
 
 ##  Best Practices for Planning Virtual Conferences

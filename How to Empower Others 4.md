@@ -1,3 +1,9 @@
+---
+title: "How to Empower Others 4"
+tags: empowering life-coaching coach conversation communication mad
+date: 2020-11-28 20:01:46
+---
+
 # How to Empower Others 4
 
 ## Building Trust

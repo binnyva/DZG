@@ -1,3 +1,9 @@
+---
+title: "Non-Violent Communication"
+tags: communication lc literature-notes mad nvc
+date: 2020-12-20 12:33:52
+---
+
 # Non-Violent Communication
 
 Context: Abishek's session at LC day 2.

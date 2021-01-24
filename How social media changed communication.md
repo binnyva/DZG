@@ -1,3 +1,9 @@
+---
+title: "How social media changed communication"
+tags: communication literature-notes media social-media
+date: 2020-11-28 18:10:54
+---
+
 # How social media changed communication
 
 [Source](https://www.youtube.com/watch?v=nC1MK0ICM0w)

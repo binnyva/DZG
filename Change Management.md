@@ -1,3 +1,9 @@
+---
+title: "Change Management"
+tags: best-practice change change-management literature-notes
+date: 2020-12-08 16:57:17
+---
+
 # Change Management
 
 # Change Management: Definition, Best Practices & Examples

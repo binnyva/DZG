@@ -1,3 +1,9 @@
+---
+title: "Existentialism: main features"
+tags: philosophy existentialism
+date: 2020-12-08 16:55:28
+---
+
 # Existentialism: main features
 
 [Source](https://www.youtube.com/watch?v=oL4skuHK-9w)

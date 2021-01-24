@@ -1,3 +1,9 @@
+---
+title: "Existentialism - Lecture by Daniel Bonevac"
+tags: camus existentialism literature-notes philosophy sartre
+date: 2020-11-28 18:10:55
+---
+
 # Existentialism - Lecture by Daniel Bonevac
 
 [Source](https://www.youtube.com/watch?v=-a-8xBbr05Y)

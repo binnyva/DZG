@@ -1,3 +1,9 @@
+---
+title: "The Philosophy of Albert Camus"
+tags: philosophers philosophy camus existentialism
+date: 2020-12-08 16:56:14
+---
+
 # The Philosophy of Albert Camus
 
 ## Life is Absurd. How to Live it? [The Philosophy of Albert Camus]

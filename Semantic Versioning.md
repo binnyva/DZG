@@ -1,3 +1,9 @@
+---
+title: "Semantic Versioning"
+tags: programming version-control permanent-notes
+date: 2020-12-15 19:45:56
+---
+
 # Semantic Versioning
 
 With semantic versioning, every version number is of the form: major.minor.patch. Rules...

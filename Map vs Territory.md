@@ -1,3 +1,9 @@
+---
+title: "Map vs Territory"
+tags: rationality map nlp permanent-notes
+date: 2020-12-18 15:15:39
+---
+
 # Map vs Territory
 
 Map is a simplified representation of the reality(territory) in someone's mind. People generally confuse map for territory - but Map is not the territory.

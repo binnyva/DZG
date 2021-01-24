@@ -1,3 +1,9 @@
+---
+title: "Cal Newport: "So Good They Can't Ignore You""
+tags: career deep-work literature-notes notes passion video
+date: 2020-11-28 18:10:54
+---
+
 # Cal Newport: "So Good They Can't Ignore You"
 
 [Source](https://www.youtube.com/watch?v=qwOdU02SE0w)

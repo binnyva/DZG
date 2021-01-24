@@ -1,3 +1,9 @@
+---
+title: "Rules of Risk"
+tags: risk psychology
+date: 2020-11-28 20:24:44
+---
+
 # Rules of Risk
 
 # Rules of Risk

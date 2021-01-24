@@ -1,3 +1,9 @@
+---
+title: "Embodied cognition"
+tags: cognition psychology permanent-notes
+date: 2020-12-25 19:55:12
+---
+
 # Embodied cognition
 
 Embodied cognition, the idea that the mind is not only connected to the body but that the body influences the mind (in a way that the two always have to be considered together)

@@ -1,3 +1,9 @@
+---
+title: "Transformational Leadership"
+tags: leadership literature-notes mad notes session transformational-leadership
+date: 2020-11-28 18:10:55
+---
+
 # Transformational Leadership
 
 # Transformational Leadership

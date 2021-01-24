@@ -1,3 +1,9 @@
+---
+title: "How to Empower Others 1"
+tags: coach session notes life-coaching empowering mad
+date: 2020-11-28 20:01:24
+---
+
 # How to Empower Others 1
 
 # Empowering Others

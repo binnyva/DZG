@@ -1,3 +1,9 @@
+---
+title: "Eigenquestions: Art of Framing Problems"
+tags: problem-solving decision-making literature-notes
+date: 2020-12-04 20:16:15
+---
+
 # Eigenquestions: Art of Framing Problems
 
 [Source](https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems)

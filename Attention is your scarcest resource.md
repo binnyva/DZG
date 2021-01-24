@@ -1,3 +1,9 @@
+---
+title: "Attention is your scarcest resource"
+tags: attention focus behavior productivity
+date: 2020-09-07 19:26:44
+---
+
 # Attention is your scarcest resource
 
 [Source](https://www.benkuhn.net/attention/)

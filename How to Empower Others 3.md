@@ -1,3 +1,9 @@
+---
+title: "How to Empower Others 3"
+tags: life-coaching mindset coach mad
+date: 2020-11-28 20:01:56
+---
+
 # How to Empower Others 3
 
 ## What Mentoring is not

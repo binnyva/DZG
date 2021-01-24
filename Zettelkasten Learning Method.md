@@ -1,3 +1,9 @@
+---
+title: "Zettelkasten Learning Method"
+tags: knowledge-management literature-notes notes video zettelkasten pkm
+date: 2021-01-20 07:39:10
+---
+
 # Zettelkasten Learning Method
 
 [Source](https://www.youtube.com/watch?v=rOSZOCoqOo8)
@@ -36,9 +42,9 @@ Write down ideas when you get them. Review them within a few days and convert th
 Review and repeat this for a while. After you have a web of knowledge, see what's missing, compare connections etc. 
 
 ## References
-[[Organize Your Knowledge with Zettelkasten]]
-
+- [[Organize Your Knowledge with Zettelkasten]]
+- [[Zettelkasten]]
 
 ---
 ### Tags
-#knowledge-management #ksm #literature-notes #notes #video #zettelkasten
+#knowledge-management #literature-notes #notes #video #zettelkasten #pkm

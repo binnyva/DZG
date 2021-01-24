@@ -1,3 +1,9 @@
+---
+title: "Manage Your Energy, Not Your Time"
+tags: energy literature-notes procrastination time time-management productivity
+date: 2020-11-28 19:45:36
+---
+
 # Manage Your Energy, Not Your Time
 
 [Source](https://hbr.org/2007/10/manage-your-energy-not-your-time)

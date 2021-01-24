@@ -1,3 +1,9 @@
+---
+title: "Intro to Notion"
+tags: app literature-notes notes notion video
+date: 2020-11-28 18:10:54
+---
+
 # Intro to Notion
 
 # 1. How Notion Changes Everything

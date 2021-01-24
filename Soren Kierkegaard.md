@@ -1,3 +1,9 @@
+---
+title: "Soren Kierkegaard"
+tags: existentialism kierkegaard literature-notes philosophers philosophy
+date: 2020-11-28 18:10:55
+---
+
 # Soren Kierkegaard
 
 # Introduction to Kierkegaard: The Existential Problem

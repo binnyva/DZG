@@ -1,3 +1,9 @@
+---
+title: "Child Rights"
+tags: child-rights literature-notes mad posco
+date: 2020-11-28 18:10:55
+---
+
 # Child Rights
 
 # Child Rights

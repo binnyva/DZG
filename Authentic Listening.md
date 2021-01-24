@@ -1,3 +1,9 @@
+---
+title: "Authentic Listening"
+tags: communication conversation literature-notes transformational-leadership mad
+date: 2020-11-28 19:41:53
+---
+
 # Authentic Listening
 
 Context : Abishek, July 28th. Transformational Leadership.

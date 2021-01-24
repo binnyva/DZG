@@ -1,3 +1,9 @@
+---
+title: "Coaching"
+tags: coach session notes mentor
+date: 2020-07-19 14:33:25
+---
+
 # Coaching
 
 # Coaching

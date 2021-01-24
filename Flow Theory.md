@@ -1,3 +1,9 @@
+---
+title: "Flow Theory"
+tags: concentration flow focus literature-notes psychology
+date: 2020-11-28 18:10:55
+---
+
 # Flow Theory
 
 [Source](https://www.youtube.com/watch?v=iUsOCR1KKms)

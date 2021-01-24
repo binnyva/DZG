@@ -1,3 +1,9 @@
+---
+title: "Keep Identity Small"
+tags: identity psychology permanent-notes
+date: 2020-12-24 20:34:50
+---
+
 # Keep Identity Small
 
 Keep your identity small. "I’m not the kind of person who does things like that" is not an explanation, it’s a trap.

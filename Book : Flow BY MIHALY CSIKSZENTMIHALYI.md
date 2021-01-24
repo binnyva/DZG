@@ -1,3 +1,9 @@
+---
+title: "Book : Flow BY MIHALY CSIKSZENTMIHALYI"
+tags: book flow literature-notes psychology
+date: 2020-11-28 18:10:55
+---
+
 # Book : Flow BY MIHALY CSIKSZENTMIHALYI
 
 [Source](https://www.youtube.com/watch?v=8h6IMYRoCZw)

@@ -1,3 +1,9 @@
+---
+title: "The Righteous Mind by Jonathan Haidt"
+tags: competition cooperation hive literature-notes organization people psychology
+date: 2020-12-08 16:58:30
+---
+
 # The Righteous Mind by Jonathan Haidt
 
 # The Righteous Mind | Jonathan Haidt | Talks at Google

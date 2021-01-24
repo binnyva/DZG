@@ -1,3 +1,9 @@
+---
+title: "Systems Thinking Intro"
+tags: literature-notes notes systems-thinking video
+date: 2020-11-28 18:10:54
+---
+
 # Systems Thinking Intro
 
 ## Source 

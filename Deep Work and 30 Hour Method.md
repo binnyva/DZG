@@ -1,3 +1,9 @@
+---
+title: "Deep Work and 30 Hour Method"
+tags: literature-notes
+date: 2020-11-28 18:10:54
+---
+
 # Deep Work and 30 Hour Method
 
 # The Importance of Deep Work & The 30-Hour Method for Learning a New Skill

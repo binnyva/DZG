@@ -1,3 +1,9 @@
+---
+title: "Employees Who Feel Love Perform Better"
+tags: care compassion literature-notes love productivity
+date: 2020-11-28 18:10:55
+---
+
 # Employees Who Feel Love Perform Better
 
 Compassionate love is based on warmth, affection, and connection rather than passion

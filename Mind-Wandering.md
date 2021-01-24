@@ -1,3 +1,9 @@
+---
+title: "Mind-Wandering"
+tags: focus psychology
+date: 2020-11-28 20:25:43
+---
+
 # Mind-Wandering
 
 [Source](https://durmonski.com/productivity/what-is-mind-wandering/)

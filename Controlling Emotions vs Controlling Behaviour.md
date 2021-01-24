@@ -1,3 +1,9 @@
+---
+title: "Controlling Emotions vs Controlling Behaviour"
+tags: quote emotion political-correctness
+date: 2020-07-22 19:08:32
+---
+
 # Controlling Emotions vs Controlling Behaviour
 
 If people can't control their own emotion, then they have to start trying to control other people's behavior. 

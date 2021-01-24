@@ -1,3 +1,9 @@
+---
+title: "How I read books: a guide on how to learn"
+tags: learning literature-notes read book
+date: 2020-12-04 19:05:03
+---
+
 # How I read books: a guide on how to learn
 
 [Source](https://denzhadanov.com/how-i-read-books-a-guide-on-how-to-learn-a943123a4aeb)

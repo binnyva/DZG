@@ -1,3 +1,9 @@
+---
+title: "Human Needs"
+tags: psychology permanent-notes needs
+date: 2020-12-19 18:40:27
+---
+
 # Human Needs
 
 Human needs are finite and classifiable. There are 9 fundamental human needs that are constant accross time periods and cultures.

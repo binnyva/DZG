@@ -1,3 +1,9 @@
+---
+title: "Existentialism"
+tags: philosophy philosophers existentialism concept-notes
+date: 2020-12-20 12:29:22
+---
+
 # Existentialism
 
 # Existentialism

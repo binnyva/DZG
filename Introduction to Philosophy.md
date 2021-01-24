@@ -1,3 +1,9 @@
+---
+title: "Introduction to Philosophy"
+tags: notes philosophy
+date: 2020-11-28 20:29:34
+---
+
 # Introduction to Philosophy
 
 # Introduction to Philosophy

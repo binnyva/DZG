@@ -1,3 +1,9 @@
+---
+title: "Existential Psychotherapy"
+tags: existentialism psychology literature-notes
+date: 2020-12-08 19:10:44
+---
+
 # Existential Psychotherapy
 
 # Existential Psychotherapy: Death, Freedom, Isolation, Meaninglessness

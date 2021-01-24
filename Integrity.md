@@ -1,3 +1,9 @@
+---
+title: "Integrity"
+tags: integrity lc life-management literature-notes mad notes session
+date: 2020-11-28 18:10:54
+---
+
 # Integrity
 
 # Integrity

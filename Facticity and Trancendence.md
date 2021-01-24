@@ -1,3 +1,9 @@
+---
+title: "Facticity and Trancendence"
+tags: philosophy sarte
+date: 2020-11-28 18:31:41
+---
+
 # Facticity and Trancendence
 
 According to [[Jean-Paul Sartre]], everyone has these two features...
